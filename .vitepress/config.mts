@@ -4,7 +4,7 @@ console.log(set_sidebar("/py/cc"));
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	base: "/BLog",
+	base: "/BLog/",
 	title: "Mercurius的技术文档",
 	description: "为了技术冲啊！",
 	themeConfig: {
